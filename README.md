@@ -19,7 +19,3 @@ python3 bible_inference.py
 '''
 
 This will summarize the verse you put in your code.
-
-
-
-kjh bnO GRN'
